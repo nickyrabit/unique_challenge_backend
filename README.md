@@ -1,4 +1,4 @@
-# unique_challenge_web
+# unique_challenge_backend
 
 Make sure you have node in your machine
 if not get it from here https://nodejs.org/en/download
