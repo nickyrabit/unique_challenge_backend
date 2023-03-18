@@ -11,6 +11,9 @@
   "author": "safari team",
   "license": "ISC",
   "dependencies": {
+    "@unique-nft/accounts": "^0.3.4",
+    "@unique-nft/sdk": "^0.2.5",
+    "@unique-nft/substrate-client": "^0.8.0",
     "express": "^4.18.2",
     "typescript": "^5.0.2"
   },
