@@ -7,7 +7,8 @@ SETUP STEPS
 a) Create an empty folder called dist in your root folder unique_challenge_web
 b) npm install
 
-BUILDING AND RUNNING A PROJECT
-a) npm run build
-b) npm run start
+### BUILDING AND RUNNING A PROJECT
+`` npm run build
+     npm run start
+``
 If you do that the code will run 
